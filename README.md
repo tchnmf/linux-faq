@@ -1,9 +1,12 @@
 ### Linux FAQ ###
 
-```
-https://github.com/tchnmf/linux-faq
-```
+`https://github.com/tchnmf/linux-faq`
 
-[Some Text]()
 
-### Some Text ###
+* Generate random UUID
+
+* Generate random string 
+`openssl rand -hex 6`
+
+* Generate passwords 
+`pwgen -n 16|head -1`
