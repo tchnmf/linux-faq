@@ -2,11 +2,15 @@
 
 `https://github.com/tchnmf/linux-faq`
 
+---
 
-* Generate random UUID
+#### [git] Pulling remote branch
+`git pull origin BRANCH_NAME`
 
-* Generate random string 
+#### [shell] Generate random UUID
+
+#### [shell] Generate random string 
 `openssl rand -hex 6`
 
-* Generate passwords 
+#### [shell] Generate passwords 
 `pwgen -n 16|head -1`
