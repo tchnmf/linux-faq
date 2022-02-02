@@ -4,13 +4,16 @@
 
 ---
 
-#### [git] Pulling remote branch
+#### [git] How to pull remote branch?
 `git pull origin BRANCH_NAME`
 
-#### [shell] Generate random UUID
+#### [git] How to view the change history of a file in GIT?
+`git log -p FILENAME`
 
-#### [shell] Generate random string 
+#### [shell] How to generate random UUID string?
+
+#### [shell] How to generate random string using openssl?
 `openssl rand -hex 6`
 
-#### [shell] Generate passwords 
+#### [shell] How to generate passwords using pwgen?
 `pwgen -n 16|head -1`
